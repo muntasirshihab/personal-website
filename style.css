@@ -1,0 +1,76 @@
+body{
+    
+}
+#name{
+    color: rgb(226, 36, 141);
+    font-size: 40px;
+    font-weight: 900;
+}
+h1{
+    font-size: 30px;
+}
+p{
+    color: gray;
+}
+section{
+    height: 450px;
+    padding-bottom: 250px;
+    margin-bottom: 100px;
+}
+.top{
+    background-image: url(images/header-bg.png);
+    
+}
+.top-div{
+    width: 30%;
+    float: left;
+    margin: 10%;
+}
+.top-div img{
+    width: 100%;
+    
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(218, 108, 168), rgb(223, 14, 160));
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+.middle{
+    background-image: url(images/biography-bg.png);
+}
+.work{
+    background-image: url(images/latest-work-bg.png);
+    padding: 7%;
+}
+.w{
+    float: left;
+    width: 25%;
+    margin: 4%;
+}
+.w img{
+    width: 100%
+}
+#lw{
+    text-align: center;
+}
+.pop{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+}
+#last{
+    color: black;
+}
+#big-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(218, 108, 168), rgb(223, 14, 160));
+    padding: 30px 100px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+footer{
+    text-align: center;
+}
